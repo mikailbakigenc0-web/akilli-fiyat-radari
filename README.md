@@ -1,10 +1,5 @@
-# =====================================================================
-# README.md DOSYASINI OTOMATİK OLUŞTURMA VE İNDİRME HÜCRESİ
-# =====================================================================
-import os
-from google.colab import files
 
-readme_icerik = """# 📡 Akıllı Fiyat Radarı (SaaS Prototip)
+ """# 📡 Akıllı Fiyat Radarı (SaaS Prototip)
 
 Bu proje, e-ticaret satıcılarının ürün maliyetlerini, kargo ücretlerini, platform komisyonlarını ve KDV oranlarını hesaplayarak **başa baş noktasını** ve **önerilen satış fiyatını** anlık olarak çıkaran bir akıllı analiz aracıdır.
 
